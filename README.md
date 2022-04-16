@@ -1,6 +1,6 @@
 My first Flutter App
 
-It contains only few functions and some low level animations using only AnimatedContainers and not yet animation controllers
+It contains only few functions and some low level animations using only AnimatedContainers and not yet animation controllers.
 
 It should be played by two players each using only a single finger.
 
