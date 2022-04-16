@@ -1,16 +1,9 @@
-# besedak
+My first Flutter App
 
-A new Flutter project.
+It contains only few functions and some low level animations using only AnimatedContainers and not yet animation controllers
 
-## Getting Started
+It should be played by two players each using only a single finger.
 
-This project is a starting point for a Flutter application.
+I had a problem with multitouch and it`s ability to block other touches so one can stop the score from changing by simply pressing on the screen with two fingers and then releasing one of them so he is left with one finger on the screen.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Game is a clicker game where you get +1 point and your opponent -1 point for every tap you do. The goal is to get from 0 to 10 points. 
